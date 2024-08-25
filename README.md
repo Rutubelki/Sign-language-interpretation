@@ -1,7 +1,7 @@
 # Sign-language-interpretation
 
 Overview
-This project is focused on developing a Sign Language Interpretation system using machine learning and computer vision techniques. The system detects and interprets sign language gestures into text using Google’s MediaPipe for landmark detection and custom datasets.
+This project is focused on developing a Sign Language Interpretation system using deep learning(using LSTM) and computer vision techniques. The system detects and interprets sign language gestures into text using Google’s MediaPipe for landmark detection and custom datasets.
 
 Project Structure
 creating_dataset.py: Script for creating and recording the custom dataset.
